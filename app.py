@@ -72,7 +72,7 @@ def station():
 
     # create session and fetch data
     session = Session(engine)
-    results = session.query(Station.id,Station.name).all()
+    results = session.query(Station.station,Station.name).all()
     dictionary = dict(results)
     print(results)
     session.close()
