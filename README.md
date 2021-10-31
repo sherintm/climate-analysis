@@ -1,4 +1,4 @@
-# sqlalchemy-challenge
+# Climate Analysis
 This project mainly contains 3 parts. 
 <ul>
 <li>Climate Analysis and Exploration</li>
