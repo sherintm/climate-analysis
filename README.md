@@ -8,10 +8,10 @@ This project mainly contains 3 parts.
 <h2><strong>Climate Analysis and Exploration</strong></h2>
 A notebook named climate_starter.ipynb contains the precipitation analysis and station analysis by connecting to the sqlite database provided in the Resources folder.
 <h3><strong>Precipitation Analysis</strong></h3>
-A plot is added to depict the precipitation data for the last 12 months.
+A plot is added to depict the precipitation data for the last 12 months.<br>
 ![Precipitation-Data](Images/PrecipitationData.png "Precipitation Data")
 <h3><strong>Station Analysis</strong></h3>
-This shows the different stations available and a histogram of last 12 months' temperature observations data of most active station.
+This shows the different stations available and a histogram of last 12 months' temperature observations data of most active station.<br>
 ![MostActiveStaionData](Images/TOBS_ActiveStation.png  "Most Active Staion Data")
 <h2><strong>Climate App</strong></h2>
 The app is added in App.py. It shows available routes in the home page.<br>
